@@ -1,1 +1,1 @@
-"# Polymarket" 
+# Polymarket
